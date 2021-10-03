@@ -6,7 +6,7 @@
 ```sql
 CREATE DATABASE login;
 ```
-- Then, select the login.sql file from the downloaded folder. 
+- Then, import and select the login.sql file from the downloaded folder to the login database created. 
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
