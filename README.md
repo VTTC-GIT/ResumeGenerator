@@ -2,7 +2,10 @@
   
 # Important
 - In order to run this, you must have XAMPP installed.
-- Create a database named login in your phpmyadmin.
+- Create a database named login by entering following **SQL** command:
+```sql
+CREATE DATABASE login;
+```
 - Then, select the login.sql file from the downloaded folder. 
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
